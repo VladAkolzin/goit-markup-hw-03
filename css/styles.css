@@ -257,11 +257,6 @@ img {
 	text-align: center;
 }
 /* ----------------footer-styles----------*/
-.footer-container {
-	display: flex;
-	flex-direction: column;
-	justify-content: flex-start;
-}
 .footer-info-text {
 	background-color: var(--dark-color);
 	padding-top: 100px;
